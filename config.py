@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+token = '649371684:AAGaVX7WrAICG69t4Z2yJD5uMTHZ4ZL_9J8'
+
+QIWI_PURSE = "9999-7777-5555-3333"
+
